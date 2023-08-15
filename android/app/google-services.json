@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835020053299",
+    "project_id": "email-and-password-auth-4fae8",
+    "storage_bucket": "email-and-password-auth-4fae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835020053299:android:1d3e7a3b2d2b545ef2bc46",
+        "android_client_info": {
+          "package_name": "com.example.email_password_auth_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835020053299-ieit7p37du4j19f244mh5tjvmjb4bd39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc74xTEDgepb2QGaCk5bolhuk03Zbvfw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835020053299-ieit7p37du4j19f244mh5tjvmjb4bd39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
